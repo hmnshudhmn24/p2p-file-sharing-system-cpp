@@ -51,6 +51,3 @@ A simple decentralized peer-to-peer (P2P) file sharing system using C++ and sock
 - Implement better peer discovery
 - Add secure file transfer with encryption
 - Improve file integrity checks
-
-## License
-This project is open-source and can be modified freely.
